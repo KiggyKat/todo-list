@@ -1,1 +1,2 @@
 Lord havith mercy
+cleanly amend a commit
