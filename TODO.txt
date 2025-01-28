@@ -1,2 +1,2 @@
 some text
-To do or not to do
+To do or not to doExperimenting with Git
